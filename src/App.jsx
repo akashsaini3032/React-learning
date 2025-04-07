@@ -242,6 +242,54 @@ const App =() => {
     </Card>
 
     </div>
+
+    <div id="title" >
+    <Card style={{ width: '18rem' }}>
+    <img src={img12} width="100%" ></img>
+      <Card.Body>
+        <Card.Title>Noodles</Card.Title>
+        <Card.Text>
+          Price:70 RS per Plate
+        </Card.Text>
+        <Button variant="primary">ORDER NOW</Button>
+      </Card.Body>
+    </Card>
+
+    <Card style={{ width: '18rem' }}>
+    <img src={img13} width="100%" height="70%" ></img>
+      <Card.Body>
+        <Card.Title>Butter Paneer</Card.Title>
+        <Card.Text>
+        Price:100 RS per Plate
+        </Card.Text>
+        <Button variant="primary">ORDER NOW</Button>
+      </Card.Body>
+    </Card>
+
+
+    <Card style={{ width: '18rem' }}>
+    <img src={img14} width="100%" ></img>
+      <Card.Body>
+        <Card.Title>COMBO PACK</Card.Title>
+        <Card.Text>
+        Price:300 RS per Plate
+        </Card.Text>
+        <Button variant="primary">ORDER NOW</Button>
+      </Card.Body>
+    </Card>
+
+    <Card style={{ width: '18rem' }}>
+    <img src={img15} width="100%" ></img>
+      <Card.Body>
+        <Card.Title>PIZZA</Card.Title>
+        <Card.Text>
+        Price:100 RS 
+        </Card.Text>
+        <Button variant="primary">ORDER NOW</Button>
+      </Card.Body>
+    </Card>
+
+    </div>
 <br /> <br />
 
 
