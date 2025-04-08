@@ -1,11 +1,7 @@
 
-import img1 from "./Image/ph1.jpg";
-import img2 from "./Image/ph2.jpg";
-import img3 from "./Image/ph3.jpg";
-import img4 from "./Image/ph4.jpg";
-import img5 from "./Image/ph5.jpg";
+
 import img6 from "./Image/ph6.jpg";
-import img7 from "./Image/ph7.jpg";
+
 import img8 from "./Image/ph8.jpg";
 import img9 from "./Image/ph9.jpg";
 
