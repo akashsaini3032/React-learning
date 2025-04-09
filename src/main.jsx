@@ -10,7 +10,7 @@ import App from './App.jsx'
  }
  import 'bootstrap/dist/css/bootstrap.min.css';
 
- import "./style.css";
+ import "./bootstrap.css";
 
  
 createRoot(document.getElementById('root')).render(
