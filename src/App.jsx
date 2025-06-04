@@ -247,7 +247,7 @@ const App =() => {
 <br /> <br />
 
 
-{/* <h1 id="gallary">Restaurant Gallary</h1>
+<h1 id="gallary">Restaurant Gallary</h1>
 
 <div className="restaurant-photo-gallery">
   <div className="photo-card"> <img src={img17}  ></img></div>
@@ -270,7 +270,7 @@ const App =() => {
 </div>
 
 <br /><br />
- */}
+
 
 
 <h1 id="review">Review Of OUR Customer in BLOG</h1>
