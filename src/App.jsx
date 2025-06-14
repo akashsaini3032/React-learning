@@ -247,7 +247,7 @@ const App =() => {
 <br /> <br />
 
 
-{/* <h1 id="gallary">Restaurant Gallary</h1>
+<h1 id="gallary">Restaurant Gallary</h1>
 
 <div className="restaurant-photo-gallery">
   <div className="photo-card"> <img src={img17}  ></img></div>
@@ -269,7 +269,7 @@ const App =() => {
   <div className="photo-card"> <img src={img28}  ></img></div>
 </div>
 
-<br /><br /> */}
+<br /><br />
 
 
 
