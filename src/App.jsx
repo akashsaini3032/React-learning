@@ -14,33 +14,33 @@
 // │ 📝 DESCRIPTION : [Day 2 task 1 ]   Namechange           │
 // ╰════════════════════════════════════════════════════════════╯
 
-// import img6 from "./Image/ph6.jpg";
+import img6 from "./Image/ph6.jpg";
 
-// import img8 from "./Image/ph8.jpg";
-// import img9 from "./Image/ph9.jpg";
+import img8 from "./Image/ph8.jpg";
+import img9 from "./Image/ph9.jpg";
 
-// import img11 from "./Image/ph11.jpg";
+import img11 from "./Image/ph11.jpg";
 
-// import img12 from "./Image/ph12.png";
-// import img13 from "./Image/ph13.png";
-// import img14 from "./Image/ph14.png";
-// import img15 from "./Image/ph15.png";
-// import img16 from "./Image/ph16.jpg";
+import img12 from "./Image/ph12.png";
+import img13 from "./Image/ph13.png";
+import img14 from "./Image/ph14.png";
+import img15 from "./Image/ph15.png";
+import img16 from "./Image/ph16.jpg";
 
-// import img17 from "./Image/g1.jpg";
-// import img18 from "./Image/g2.jpg";
-// import img19 from "./Image/g3.jpg";
-// import img20 from "./Image/g4.jpg";
-// import img21 from "./Image/g5.jpg";
-// import img22 from "./Image/g6.jpg";
+import img17 from "./Image/g1.jpg";
+import img18 from "./Image/g2.jpg";
+import img19 from "./Image/g3.jpg";
+import img20 from "./Image/g4.jpg";
+import img21 from "./Image/g5.jpg";
+import img22 from "./Image/g6.jpg";
 
 
-// import img23 from "./Image/g7.jpg";
-// import img24 from "./Image/g8.jpg";
-// import img25 from "./Image/g9.jpg";
-// import img26 from "./Image/g10.jpg";
-// import img27 from "./Image/g11.jpg";
-// import img28 from "./Image/g12.jpg";
+import img23 from "./Image/g7.jpg";
+import img24 from "./Image/g8.jpg";
+import img25 from "./Image/g9.jpg";
+import img26 from "./Image/g10.jpg";
+import img27 from "./Image/g11.jpg";
+import img28 from "./Image/g12.jpg";
 
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
