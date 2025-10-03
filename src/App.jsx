@@ -35,12 +35,12 @@ import img21 from "./Image/g5.jpg";
 import img22 from "./Image/g6.jpg";
 
 
-import img23 from "./Image/g7.jpg";
-import img24 from "./Image/g8.jpg";
-import img25 from "./Image/g9.jpg";
-import img26 from "./Image/g10.jpg";
-import img27 from "./Image/g11.jpg";
-import img28 from "./Image/g12.jpg";
+// import img23 from "./Image/g7.jpg";
+// import img24 from "./Image/g8.jpg";
+// import img25 from "./Image/g9.jpg";
+// import img26 from "./Image/g10.jpg";
+// import img27 from "./Image/g11.jpg";
+// import img28 from "./Image/g12.jpg";
 
 import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
