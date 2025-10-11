@@ -220,7 +220,7 @@ const App =() => {
       </Card.Body>
     </Card>
 
-{/* 
+
     <Card style={{ width: '18rem' }}>
     <img src={img14} width="100%" ></img>
       <Card.Body>
@@ -230,7 +230,7 @@ const App =() => {
         </Card.Text>
         <Button variant="primary">ORDER NOW</Button>
       </Card.Body>
-    </Card> */}
+    </Card>
 
     <Card style={{ width: '18rem' }}>
     <img src={img15} width="100%" ></img>
