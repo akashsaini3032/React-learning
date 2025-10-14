@@ -249,14 +249,14 @@ const App =() => {
 
 <h1 id="gallary">Restaurant Gallary</h1>
 
-{/* <div className="restaurant-photo-gallery">
+<div className="restaurant-photo-gallery">
   <div className="photo-card"> <img src={img17}  ></img></div>
   <div className="photo-card"> <img src={img18}  ></img></div>
   <div className="photo-card"> <img src={img19}  ></img></div>
   <div className="photo-card"> <img src={img20}  ></img></div>
   <div className="photo-card"> <img src={img21}  ></img></div>
   <div className="photo-card"> <img src={img22}  ></img></div>
-</div> */}
+</div>
 
 <br /><br />
 
