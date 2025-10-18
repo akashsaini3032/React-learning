@@ -260,14 +260,14 @@ const App =() => {
 
 <br /><br />
 
-{/* <div className="restaurant-photo-gallery">
+<div className="restaurant-photo-gallery">
   <div className="photo-card"> <img src={img23}  ></img></div>
   <div className="photo-card"> <img src={img24}  ></img></div>
   <div className="photo-card"> <img src={img25}  ></img></div>
   <div className="photo-card"> <img src={img26}  ></img></div>
   <div className="photo-card"> <img src={img27}  ></img></div>
   <div className="photo-card"> <img src={img28}  ></img></div>
-</div> */}
+</div> 
 
 <br /><br />
 
