@@ -353,13 +353,13 @@ const App =() => {
               <li><a href="#">Contact US </a></li>
             </ul>
           </div>
-          <div className="footer-section">
+          {/* <div className="footer-section">
             <h4>Follow</h4>
             <div className="social-links">
               <a href="#">Facebook</a>
               <a href="#">Twitter</a>
               <a href="#">Instagram</a>
-            </div>
+            </div> */}
           </div>
         </div>
         <div className="footer-bottom">
