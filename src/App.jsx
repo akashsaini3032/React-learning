@@ -345,12 +345,12 @@ const App =() => {
           <div className="footer-section">
             <h4>Links</h4>
             <ul>
-              <li><a href="#">Home</a></li>
+              {/* <li><a href="#">Home</a></li>
               <li><a href="#">Menu</a></li>
               <li><a href="#">Features</a></li>
               <li><a href="#">Pricing </a></li>
               <li><a href="#">About US </a></li>
-              <li><a href="#">Contact US </a></li>
+              <li><a href="#">Contact US </a></li> */}
             </ul>
           </div>
           <div className="footer-section">
